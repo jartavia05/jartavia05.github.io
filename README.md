@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jartavia05
-- 👀 I’m interested in hacking
+- 👀 I’m a professional hacker with a python knowledge
 - 🌱 I’m currently learning Data Science
 - 📫 Reach out to me by not.phishing.candidate@gmail.com
 
