@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jartavia05
 - 👀 I’m an ethical hacker, python developer and teachear.
 - 🌱 Currently exploring how to save the world with Data Science.
+- 💭 My philosophy: "Open source prevents backdoors"
 - 📫 Reach out to me by not.phishing.candidate@gmail.com
 
 <!---
