@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jartavia05
-- 👀 I’m a professional hacker with a python knowledge
-- 🌱 I’m currently learning Data Science
+- 👀 I’m an ethical hacker, python developer and teachear.
+- 🌱 Currently exploring how to save the world with Data Science.
 - 📫 Reach out to me by not.phishing.candidate@gmail.com
 
 <!---
