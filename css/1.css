@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat; /* Do not repeat the image */
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
+    background-color: #3c434b;
 }
 
 .container {
