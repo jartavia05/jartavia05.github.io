@@ -8,7 +8,7 @@
 # Bio ✨
 
 - 👋 Hi, I’m @jartavia05
-- 👀 I’m an ethical hacker, python developer and teachear.
+- 👀 I’m an Ethical Hacker, Python Dev and Cybersec Professor.
 - 🌱 Currently exploring how to save the world with Data Science.
 - 💭 My philosophy: "Open source prevents backdoors"
 - 📫 Reach out to me by not.phishing.candidate@gmail.com
